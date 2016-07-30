@@ -1,0 +1,24 @@
+{
+  "name": "getting-started-with-fis3",
+  "version": "1.0.0",
+  "description": "getting started with fis3",
+  "main": "index.js",
+  "author": "Jason Liao <lmovingon2014@gmail.com> (https://github.com/jasonliao)",
+  "license": "ISC",
+  "devDependencies": {
+    "fis-parser-babel-5.x": "^1.4.0",
+    "fis3-hook-commonjs": "^0.1.25",
+    "fis3-hook-node_modules": "^2.2.7",
+    "fis3-parser-node-sass": "^0.1.9",
+    "fis3-postpackager-loader": "^2.0.5",
+    "fis3-preprocessor-js-require-css": "^0.1.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "todomvc-app-css": "^2.0.6"
+  }
+}
